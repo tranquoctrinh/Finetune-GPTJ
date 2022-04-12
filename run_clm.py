@@ -495,11 +495,3 @@ def _mp_fn(index):
 
 if __name__ == "__main__":
     main()
-
-
-
-
-# git clone https://github.com/microsoft/DeepSpeed
-# cd DeepSpeed
-# DS_BUILD_OPS=1 pip install .
-# ds_report
